@@ -1,0 +1,6 @@
+Simple website to implement cart functionality
+
+As items are added to the cart, number in the cart button of navigation bar is updated and add to cart button is disabled
+In the cart page, remove button is used to remove the item from the cart. Once item is removed, cart number is decreased accordingly
+Add to cart button is enabled in the home page for the respective item removed from the cart page
+Ratings can be changed from 1 to 5
